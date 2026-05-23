@@ -9,7 +9,7 @@ An AI-powered road hazard detection system commissioned for the Urban Infrastruc
 4. **Classification:** Scikit-Learn SVM Pipeline with a Standard Scaler and RBF kernel.
 
 ## Shared Google Colab Notebook
-[Click here to view the live execution and EDA notebook](INSERT_YOUR_COLAB_SHARE_LINK_HERE)
+[Click here to view the live execution and EDA notebook](https://colab.research.google.com/drive/1yippVeTh7PVEucdtl2pt6COJ-qzUvbuJ?usp=sharing)
 
 ## Team Requirements
 * Team Size: Max 4 students
