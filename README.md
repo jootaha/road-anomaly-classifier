@@ -11,6 +11,3 @@ An AI-powered road hazard detection system commissioned for the Urban Infrastruc
 ## Shared Google Colab Notebook
 [Click here to view the live execution and EDA notebook](https://colab.research.google.com/drive/1yippVeTh7PVEucdtl2pt6COJ-qzUvbuJ?usp=sharing)
 
-## Team Requirements
-* Team Size: Max 4 students
-* Duration: 1 week (Submitted May 23, 2026)
